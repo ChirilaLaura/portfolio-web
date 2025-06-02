@@ -1,0 +1,10 @@
+{
+  "name": "laura-chirila-portfolio",
+  "version": "1.0.0",
+  "description": "Laura Chirila's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "cd portfolio-dev && npm run dev",
+    "build": "cd portfolio-dev && npm run build"
+  }
+} 
